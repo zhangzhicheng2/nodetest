@@ -7,5 +7,5 @@ server.on("request",function(request,response){
 
 })
 server.listen(3333,function(){
-    console.log("启动")
+    console.log("启动!")
 })
